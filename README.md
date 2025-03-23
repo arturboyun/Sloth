@@ -1,6 +1,6 @@
 # Sloth
 
-The tool for the monitor of temperature.
+The cross-platform tool for monitor temperatures of your pc.
 
 ### Stack: Tauri + Solid + Typescript
 
